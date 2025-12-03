@@ -1977,3 +1977,595 @@ Timestamp : 2025/08/13 17:08:62;
 Timestamp : 2025/08/13 18:08:24;
             Level : INFO ; Message : Admin retrieved all products ;
  Stack :   
+Timestamp : 2025/08/14 18:08:84;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:50;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:02;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:70;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:93;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:52;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:77;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:52;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:14;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:59;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:99;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:12;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:89;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:10;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:10;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 18:08:61;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:76;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:24;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:10;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:11;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:37;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:59;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:44;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:60;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:41;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:41;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:44;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:48;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:75;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:25;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:02;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:89;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:90;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:29;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:23;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:73;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:15;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:72;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 19:08:21;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:53;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:23;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:52;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:81;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:68;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:08;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:36;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:77;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:12;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:42;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:54;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:28;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:49;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:74;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:53;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:38;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:67;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:98;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:88;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:07;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:70;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:60;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:55;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:79;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:21;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:31;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:65;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:63;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:85;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:02;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:63;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:42;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:33;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:95;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:79;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:20;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:42;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:63;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:32;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:08;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:18;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:15;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:15;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:76;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:100;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:63;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:91;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:44;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:51;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:99;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:53;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:66;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:28;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:73;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 20:08:14;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:28;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:21;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:94;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:53;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:58;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:83;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:31;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:02;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:67;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/14 21:08:51;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/15 01:08:30;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 16:08:36;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 16:08:59;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 16:08:02;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 16:08:20;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:91;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:99;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:15;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:67;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:70;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:15;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:25;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:86;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:88;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:14;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:28;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:86;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:04;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:36;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:77;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:04;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:31;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:87;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:20;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:77;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 17:08:68;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:95;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:60;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:36;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:19;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:47;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:80;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:96;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:74;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:49;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:38;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:01;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:08;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:10;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:35;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:40;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:24;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:86;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:10;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:34;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 18:08:79;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:39;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:78;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:31;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:44;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:100;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:86;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:45;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:54;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:90;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:12;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:27;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:79;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:25;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:39;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:37;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:48;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:64;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:35;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:46;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:83;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:37;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:68;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:47;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:94;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:52;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:37;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/19 19:08:28;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:48;
+            Level : ERROR ; Message : Admin failed to retrieve all products error :MongooseError: Operation `products.find()` buffering timed out after 10000ms ; data :undefined ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:41;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:07;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:99;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:10;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:41;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:12;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 18:08:37;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:43;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:89;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:64;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:25;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:59;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:47;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   
+Timestamp : 2025/08/24 19:08:89;
+            Level : INFO ; Message : Admin retrieved all products ;
+ Stack :   

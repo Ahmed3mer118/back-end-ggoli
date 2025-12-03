@@ -28,9 +28,7 @@ app.use("/api/hero", require("./router/heroRouter"))
 app.use("/api/about", require("./router/aboutRouter"))
 app.use("/api/testimonials", require("./router/testiomnialRouter"));
 app.use("/api/contact", require("./router/contactRouter"));
-
-// app.use("/api/reports/sales",require("./controllers/reports.controller"))
-
+app.use("/api/reports/sales",require("./router/reportRouter"))
 
 
 

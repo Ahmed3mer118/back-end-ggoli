@@ -4,7 +4,7 @@ const Cart = require("../models/cart.model");
 // admin
 exports.getAllOrders = async (req, res) => {
     try {
-        const orders = await Order.find().populate("userId products.productId", "username email product_title price")
+        const orders = await Order.find().populate("userId products.productId", "username email product_title product_image price")
 
         return res.status(200).json({ message: "Orders fetched successfully", orders });
     } catch (error) {
@@ -25,6 +25,26 @@ exports.getOrderById = async (req, res) => {
         res.status(500).json({ message: "Server Error", error: error.message });
     }
 };
+exports.getOrdersByIdsAdmin = async (req, res) => {
+    try {
+        const idsParam = req.params.ids; 
+       const idsArray = idsParam.split(',').map(id => id.trim());
+
+        const orders = await Order.find({
+            _id: { $in: idsArray }
+        }).populate('userId products.productId' , 'product_title price image'); 
+
+        return res.status(200).json({
+            message: "Orders retrieved successfully.",
+            data: orders
+        });
+
+    } catch (error) {
+        console.error(error);
+        return res.status(500).json({ error: "Server error while getting Orders." });
+    }
+};
+
 exports.addOrderToShipping = async (req, res) => {
     try {
         const { orderId, status } = req.body;

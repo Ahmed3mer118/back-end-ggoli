@@ -69,3 +69,34 @@ Timestamp : 2025/08/12 17:08:35;
 Timestamp : 2025/08/12 17:08:82;
             Level : ERROR ; Message : Admin failed to retrieve all products error :MongoServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017 ; data :undefined ;
  Stack :   
+Timestamp : 2025/08/14 19:08:10;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:11;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:37;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/14 19:08:59;
+            Level : ERROR ; Message : Admin failed to create new product ;
+ Stack :  ValidationError: Product validation failed: category_name: `wemon` is not a valid enum value for path `category_name`.
+    at Document.invalidate (H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3352:32)
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\document.js:3113:17
+    at H:\programming front-end\Angular\E-commerce\backend\node_modules\mongoose\lib\schemaType.js:1407:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11) 
+Timestamp : 2025/08/24 18:08:48;
+            Level : ERROR ; Message : Admin failed to retrieve all products error :MongooseError: Operation `products.find()` buffering timed out after 10000ms ; data :undefined ;
+ Stack :   

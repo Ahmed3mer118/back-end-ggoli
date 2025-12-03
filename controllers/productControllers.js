@@ -240,7 +240,7 @@ exports.checkStock = async (req, res) => {
             $expr: { $lte: ["$stock", "$minStock"] }
         });
 
-        console.log('Low stock products:', lowStockProducts);
+        // console.log('Low stock products:', lowStockProducts);
 
         if (lowStockProducts.length > 0) {
 

@@ -2,21 +2,39 @@ const Users = require("../models/userModel")
 const { GROUPED_PERMISSIONS, ALL_PERMISSIONS } = require("../utils/permissions.util")
 
 exports.getUsers = async (req, res) => {
-    try {
-        const users = new Users()
-        // const showData = users.fetchUsers()
-        // const hasData = users.keys(req.body).length > 0;
-        // if (!hasData) {
-        //     return res.status(400).json({ error: "No data provided." });
-        // }
-        // users.fetchUsers()
-        const showData = await Users.find()
-        return res.status(200).json({ message: "User retrieved successfully.", data: showData });
-    } catch (error) {
-        console.error(error);
-        return res.status(500).json({ error: "Server error while getting User." });
-    }
-}
+  try {
+      const users = await Users.aggregate([
+          {
+              $lookup: {
+                  from: 'orders', 
+                  localField: '_id', 
+                  foreignField: 'userId', 
+                  as: 'orders'
+              }
+          },
+          {
+              $project: {
+                  username: 1,
+                  email: 1,
+                  role: 1,
+                  isVerified: 1,
+                  createdAt: 1,
+                  order_ids: '$orders._id' 
+              }
+          }
+      ]);
+
+      return res.status(200).json({
+          message: "Users retrieved successfully.",
+          data: users
+      });
+
+  } catch (error) {
+      console.error(error);
+      return res.status(500).json({ error: "Server error while getting Users." });
+  }
+};
+
 
 exports.getUsersById = async (req, res) => {
     try {

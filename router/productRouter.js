@@ -8,7 +8,7 @@ const uploads = require('../middleware/uploads.middleware');
 router.get("/", productControllers.getProducts);
 router.get("/slug/:routeProduct", productControllers.getProductsbyRouteProduct);
 
-// router.get("/send/stock", authenticate, authorize('admin'), productControllers.checkStock);
+router.get("/send/stock", authenticate, authorize('admin'), productControllers.checkStock);
 router.get("/:routeProduct", productControllers.getProductsbyId);
 router.post("/", authenticate, authorize('admin'), uploads.single('image'), productControllers.addProduct);
 router.post('/get-multiple', productControllers.getMultipleProductsByIds)

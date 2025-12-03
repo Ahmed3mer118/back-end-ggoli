@@ -8,6 +8,7 @@ const { createOrder, getMyOrders, getMyOrderById ,cancelMyOrder } = orderControl
 // admin or sub-admin with orders permission
 router.get("/byAdmin", authenticate, allow({ roles: ['admin'], permissions: ['orders:read'] }), orderControllers.getAllOrders);
 router.get("/:id/byAdmin", authenticate, allow({ roles: ['admin'], permissions: ['orders:read'] }), orderControllers.getOrderById);
+router.get('/multiple/:ids/byAdmin',authenticate, orderControllers.getOrdersByIdsAdmin);
 router.post("/send/:id/byAdmin", authenticate, allow({ roles: ['admin'], permissions: ['orders:update'] }), orderControllers.addOrderToShipping);
 router.put("/status/:id/byAdmin", authenticate, allow({ roles: ['admin'], permissions: ['orders:update'] }), orderControllers.updateStatusOrder);
 // router.delete("/:id/byAdmin", authenticate, authorize('admin'), orderControllers.deleteOrder);
