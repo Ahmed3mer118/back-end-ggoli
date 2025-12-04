@@ -30,6 +30,4 @@ app.use("/api/testimonials", require("./router/testiomnialRouter"));
 app.use("/api/contact", require("./router/contactRouter"));
 app.use("/api/reports/sales",require("./router/reportRouter"))
 
-
-
 app.listen(PORT, () => { console.log("Start Server : " + PORT) })
